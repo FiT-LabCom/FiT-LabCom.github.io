@@ -31,3 +31,7 @@ TODO...
 - Matthieu Latapy at *matthieu.latapy@lip6.fr*
 - Nicolas Gensollen at *nicolas.gensollen@lip6.fr*
 
+## Share
+
+{% include nav-share.html %}
+
