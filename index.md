@@ -3,7 +3,7 @@ title: Financial Transaction Analysis for Security
 feature_text: |
   ## LabCom FiT
   Tools for financial transaction analysis for security
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "flot_ex.png"
 excerpt: "The LabCom FiT objective is to build tools for anomaly and fraud detection in financial transactions."
 layout: page
 ---
